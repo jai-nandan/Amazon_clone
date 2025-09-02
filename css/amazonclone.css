@@ -155,7 +155,7 @@ span
 
 .hero-section
 {
-    background-image: url(/Amazonclone/images/hero_image\ \(1\).jpg);
+    background-image: url(/images/hero_image\ \(1\).jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -281,4 +281,5 @@ ul a
     padding-top: 5px;
 }
     
+
 
